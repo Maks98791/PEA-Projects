@@ -1,0 +1,8 @@
+﻿  Manager.cpp
+E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\PEA1\BruteForce.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\PEA1\BruteForce.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\PEA1\BranchAndBound.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\PEA1\BranchAndBound.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\PEA1\Manager.cpp(92,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\PEA1\Manager.cpp(93,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PEA1.vcxproj -> E:\Code\C++\PEA\Brute force, B&B, Tabu, Genetic\PEA\Debug\PEA1.exe
